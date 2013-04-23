@@ -12,6 +12,9 @@
 //void AddSC_custom_gossip_codebox();
 //void AddSC_test();
 
+//Costum
+void AddSC_vip_teleporter();
+
 //world
 void AddSC_areatrigger_scripts();
 void AddSC_boss_emeriss();
@@ -383,6 +386,9 @@ void AddScripts()
 //    AddSC_custom_example();
 //    AddSC_custom_gossip_codebox();
 //    AddSC_test();
+
+    //Costum
+    AddSC_vip_teleporter();
     AddSC_areatrigger_scripts();
     AddSC_boss_emeriss();
     AddSC_boss_taerar();
